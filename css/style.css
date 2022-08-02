@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-heading{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container2{
+    width: 100%;
+}
+
+.content{
+    padding-left: 40px;
+}
+
+.content h2{
+    font-size: 1rem;
+}
+
+.para{
+    font-size: 1.2rem;
+}
+
+.ml-4{
+    margin-left: 40px;
+}
+
+.mb-4{
+    margin-bottom: 20px;
+}
+.mb-5{
+    margin-bottom: 50px;
+}
+
+.imgg{
+    display: block;
+    margin: 30px auto;
+}
